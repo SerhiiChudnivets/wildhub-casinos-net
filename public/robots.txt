@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://pawnbet-ca.com/sitemap.xml
+Sitemap: https://wildhub-casinos.net/sitemap.xml
