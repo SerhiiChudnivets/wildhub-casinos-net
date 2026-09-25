@@ -350,10 +350,10 @@
       "question": "Can I play games for free on mobile devices?"
     }
   ],
-  "_generated_at": "2026-09-25T14:26:59.043Z",
+  "_generated_at": "2026-09-25T14:27:37.473Z",
   "_version": "1.0.0",
   "html_head_alt": "wildhub baner",
   "content_alt": "wildhub register",
-  "_last_deploy": "2026-09-25T14:26:59.664Z",
-  "_deploy_trigger": "ak2nc"
+  "_last_deploy": "2026-09-25T14:27:38.074Z",
+  "_deploy_trigger": "mycecr"
 }
